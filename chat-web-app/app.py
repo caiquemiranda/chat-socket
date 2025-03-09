@@ -137,4 +137,4 @@ else:
     
     # Auto-atualização da página
     time.sleep(1)
-    st.rerun() 
+    st.rerun()
